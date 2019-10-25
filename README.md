@@ -1,1 +1,3 @@
 # python-gcode
+
+requires pyserial
